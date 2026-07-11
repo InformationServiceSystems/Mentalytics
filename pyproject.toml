@@ -1,0 +1,34 @@
+[project]
+name = "mentalytics-amm-dashboard"
+version = "0.1.0"
+description = "A Streamlit dashboard for Artificial Mental Model visualization in rehabilitation exercise assessment."
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [
+    { name = "Your Name" }
+]
+license = { text = "MIT" }
+
+dependencies = [
+    "streamlit>=1.35.0",
+    "pandas>=2.0.0",
+    "altair>=5.0.0",
+    "numpy>=1.24.0",
+    "matplotlib>=3.7.0"
+]
+
+[project.optional-dependencies]
+llm = [
+    "torch>=2.1.0",
+    "transformers>=4.40.0",
+    "accelerate>=0.28.0",
+    "sentencepiece>=0.2.0",
+    "protobuf>=4.25.0"
+]
+
+dev = [
+    "build",
+    "pytest",
+    "ruff",
+    "black"
+]

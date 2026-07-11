@@ -1,0 +1,442 @@
+[
+  {
+    "source": "synthetic_proxy",
+    "metadata": {
+      "record_id": "PROXY_R001",
+      "language": "EN",
+      "run_id": "proxy",
+      "device_id": "proxy",
+      "timestamp": "-",
+      "created_at": "-",
+      "ui_id": "AMM_0001"
+    },
+    "demographics": {
+      "age": "18-24",
+      "gender": "Female",
+      "gender_other": "-",
+      "marital": "-",
+      "employment": "Student",
+      "industry": "-",
+      "industry_other": "-",
+      "work_type": "-",
+      "work_type_other": "-"
+    },
+    "health": {
+      "disability": "No",
+      "sleep_hours": "-",
+      "sleep_problem": "-",
+      "overall_health": "5 - Very good",
+      "mobility": "5 - Very good",
+      "surgery": "No",
+      "surgery_complications": "-",
+      "recovery": "-",
+      "pt_after": "-",
+      "pt_after_when": "-",
+      "pt_adherence": "-",
+      "daily_activities_without_difficulty": "Yes"
+    },
+    "psychology": {
+      "mood_today": "5 - Very good",
+      "stress_or_anxiety_24h": "No",
+      "emotional": "Happy",
+      "emotional_other": "-",
+      "stress": "-",
+      "big5": {
+        "extrav": "6 - agree",
+        "quarrel": "2 - disagree",
+        "discipline": "6 - agree",
+        "anxious": "2 - disagree",
+        "open": "6 - agree",
+        "quiet": "2 - disagree",
+        "warm": "6 - agree",
+        "careless": "2 - disagree",
+        "stable": "6 - agree",
+        "uncreative": "2 - disagree"
+      }
+    },
+    "lifestyle": {
+      "activities": "Jogging,Gym,Cycling",
+      "activities_other": "-",
+      "days_per_week": "5-6 days",
+      "session_length": "61-90 minutes",
+      "mood_link": "My exercise habits are not strongly influenced by my mood."
+    },
+    "exercise_task": {
+      "can_perform": "-",
+      "perceived_difficulty": "4 - Sehr schwierig",
+      "actual_difficulty": "2 - Leicht schwierig",
+      "max_reps": "-"
+    },
+    "model": {
+      "score": "-",
+      "agree_with_model": "-",
+      "performed_correctly": "-"
+    },
+    "additional_exercise_tasks": {
+      "calf_raises": {
+        "perceived_difficulty": "4 - Sehr schwierig",
+        "actual_difficulty": "3 - Durchnittlich schwierig"
+      },
+      "standing_toe_touches": {
+        "perceived_difficulty": "3 - Durchnittlich schwierig",
+        "actual_difficulty": "3 - Durchnittlich schwierig"
+      },
+      "toe_touch_stretches": {
+        "perceived_difficulty": "2 - Leicht schwierig",
+        "actual_difficulty": "1 - Überhaupt nicht schwierig"
+      }
+    }
+  },
+  {
+    "source": "synthetic_proxy",
+    "metadata": {
+      "record_id": "PROXY_R002",
+      "language": "EN",
+      "run_id": "proxy",
+      "device_id": "proxy",
+      "timestamp": "-",
+      "created_at": "-",
+      "ui_id": "AMM_0002"
+    },
+    "demographics": {
+      "age": "35-44",
+      "gender": "Male",
+      "gender_other": "-",
+      "marital": "-",
+      "employment": "Employee",
+      "industry": "-",
+      "industry_other": "-",
+      "work_type": "-",
+      "work_type_other": "-"
+    },
+    "health": {
+      "disability": "No",
+      "sleep_hours": "-",
+      "sleep_problem": "-",
+      "overall_health": "3 - Satisfactory",
+      "mobility": "2 - Adequate",
+      "surgery": "Yes",
+      "surgery_complications": "No",
+      "recovery": "2-4 weeks",
+      "pt_after": "No",
+      "pt_after_when": "-",
+      "pt_adherence": "-",
+      "daily_activities_without_difficulty": "Yes"
+    },
+    "psychology": {
+      "mood_today": "3 - Satisfactory",
+      "stress_or_anxiety_24h": "Yes",
+      "emotional": "Stressed",
+      "emotional_other": "-",
+      "stress": "-",
+      "big5": {
+        "extrav": "3 - slightly disagree",
+        "quarrel": "5 - slightly agree",
+        "discipline": "4 - neutral",
+        "anxious": "6 - agree",
+        "open": "4 - neutral",
+        "quiet": "6 - agree",
+        "warm": "5 - slightly agree",
+        "careless": "5 - slightly agree",
+        "stable": "3 - slightly disagree",
+        "uncreative": "4 - neutral"
+      }
+    },
+    "lifestyle": {
+      "activities": "Walking,Swimming",
+      "activities_other": "-",
+      "days_per_week": "1-2 days",
+      "session_length": "Less than 30 minutes",
+      "mood_link": "I exercise more when I feel happy."
+    },
+    "exercise_task": {
+      "can_perform": "-",
+      "perceived_difficulty": "3 - Moderately difficult",
+      "actual_difficulty": "4 - Very difficult",
+      "max_reps": "-"
+    },
+    "model": {
+      "score": "-",
+      "agree_with_model": "-",
+      "performed_correctly": "-"
+    },
+    "additional_exercise_tasks": {
+      "calf_raises": {
+        "perceived_difficulty": "2 - Slightly difficult",
+        "actual_difficulty": "4 - Very difficult"
+      },
+      "standing_toe_touches": {
+        "perceived_difficulty": "3 - Moderately difficult",
+        "actual_difficulty": "3 - Moderately difficult"
+      },
+      "toe_touch_stretches": {
+        "perceived_difficulty": "2 - Slightly difficult",
+        "actual_difficulty": "2 - Slightly difficult"
+      }
+    }
+  },
+  {
+    "source": "synthetic_proxy",
+    "metadata": {
+      "record_id": "PROXY_R003",
+      "language": "EN",
+      "run_id": "proxy",
+      "device_id": "proxy",
+      "timestamp": "-",
+      "created_at": "-",
+      "ui_id": "AMM_0003"
+    },
+    "demographics": {
+      "age": "55-64",
+      "gender": "Female",
+      "gender_other": "-",
+      "marital": "-",
+      "employment": "Employee",
+      "industry": "-",
+      "industry_other": "-",
+      "work_type": "-",
+      "work_type_other": "-"
+    },
+    "health": {
+      "disability": "Yes",
+      "sleep_hours": "-",
+      "sleep_problem": "-",
+      "overall_health": "3 - Satisfactory",
+      "mobility": "3 - Satisfactory",
+      "surgery": "Yes",
+      "surgery_complications": "Yes",
+      "recovery": "More than 2 months",
+      "pt_after": "Yes",
+      "pt_after_when": "1-2 months",
+      "pt_adherence": "3 - Sometimes",
+      "daily_activities_without_difficulty": "No"
+    },
+    "psychology": {
+      "mood_today": "3 - Satisfactory",
+      "stress_or_anxiety_24h": "Yes",
+      "emotional": "Stressed",
+      "emotional_other": "-",
+      "stress": "-",
+      "big5": {
+        "extrav": "3 - slightly disagree",
+        "quarrel": "6 - agree",
+        "discipline": "3 - slightly disagree",
+        "anxious": "6 - agree",
+        "open": "3 - slightly disagree",
+        "quiet": "6 - agree",
+        "warm": "4 - neutral",
+        "careless": "6 - agree",
+        "stable": "2 - disagree",
+        "uncreative": "6 - agree"
+      }
+    },
+    "lifestyle": {
+      "activities": "Walking",
+      "activities_other": "-",
+      "days_per_week": "0 days",
+      "session_length": "Less than 30 minutes",
+      "mood_link": "I exercise more when I feel happy."
+    },
+    "exercise_task": {
+      "can_perform": "-",
+      "perceived_difficulty": "4 - Very difficult",
+      "actual_difficulty": "5 - Extremely difficult",
+      "max_reps": "-"
+    },
+    "model": {
+      "score": "-",
+      "agree_with_model": "-",
+      "performed_correctly": "-"
+    },
+    "additional_exercise_tasks": {
+      "calf_raises": {
+        "perceived_difficulty": "3 - Moderately difficult",
+        "actual_difficulty": "4 - Very difficult"
+      },
+      "standing_toe_touches": {
+        "perceived_difficulty": "5 - Extremely difficult",
+        "actual_difficulty": "5 - Extremely difficult"
+      },
+      "toe_touch_stretches": {
+        "perceived_difficulty": "5 - Extremely difficult",
+        "actual_difficulty": "5 - Extremely difficult"
+      }
+    }
+  },
+  {
+    "source": "synthetic_proxy",
+    "metadata": {
+      "record_id": "PROXY_R004",
+      "language": "EN",
+      "run_id": "proxy",
+      "device_id": "proxy",
+      "timestamp": "-",
+      "created_at": "-",
+      "ui_id": "AMM_0004"
+    },
+    "demographics": {
+      "age": "25-34",
+      "gender": "Non-binary",
+      "gender_other": "-",
+      "marital": "-",
+      "employment": "Student and employee",
+      "industry": "-",
+      "industry_other": "-",
+      "work_type": "-",
+      "work_type_other": "-"
+    },
+    "health": {
+      "disability": "No",
+      "sleep_hours": "-",
+      "sleep_problem": "-",
+      "overall_health": "4 - Good",
+      "mobility": "4 - Good",
+      "surgery": "No",
+      "surgery_complications": "-",
+      "recovery": "-",
+      "pt_after": "-",
+      "pt_after_when": "-",
+      "pt_adherence": "-",
+      "daily_activities_without_difficulty": "Yes"
+    },
+    "psychology": {
+      "mood_today": "4 - Good",
+      "stress_or_anxiety_24h": "No",
+      "emotional": "Relaxed",
+      "emotional_other": "-",
+      "stress": "-",
+      "big5": {
+        "extrav": "4 - neutral",
+        "quarrel": "3 - slightly disagree",
+        "discipline": "6 - agree",
+        "anxious": "3 - slightly disagree",
+        "open": "7 - strongly agree",
+        "quiet": "5 - slightly agree",
+        "warm": "6 - agree",
+        "careless": "2 - disagree",
+        "stable": "6 - agree",
+        "uncreative": "1 - strongly disagree"
+      }
+    },
+    "lifestyle": {
+      "activities": "Yoga/Pilates,Cycling,Swimming",
+      "activities_other": "-",
+      "days_per_week": "3-4 days",
+      "session_length": "30-60 minutes",
+      "mood_link": "My exercise habits are not strongly influenced by my mood."
+    },
+    "exercise_task": {
+      "can_perform": "-",
+      "perceived_difficulty": "2 - Slightly difficult",
+      "actual_difficulty": "2 - Slightly difficult",
+      "max_reps": "-"
+    },
+    "model": {
+      "score": "-",
+      "agree_with_model": "-",
+      "performed_correctly": "-"
+    },
+    "additional_exercise_tasks": {
+      "calf_raises": {
+        "perceived_difficulty": "1 - Not difficult",
+        "actual_difficulty": "1 - Not difficult"
+      },
+      "standing_toe_touches": {
+        "perceived_difficulty": "4 - Very difficult",
+        "actual_difficulty": "3 - Moderately difficult"
+      },
+      "toe_touch_stretches": {
+        "perceived_difficulty": "4 - Very difficult",
+        "actual_difficulty": "4 - Very difficult"
+      }
+    }
+  },
+  {
+    "source": "synthetic_proxy",
+    "metadata": {
+      "record_id": "PROXY_R005",
+      "language": "EN",
+      "run_id": "proxy",
+      "device_id": "proxy",
+      "timestamp": "-",
+      "created_at": "-",
+      "ui_id": "AMM_0005"
+    },
+    "demographics": {
+      "age": "45-54",
+      "gender": "Male",
+      "gender_other": "-",
+      "marital": "-",
+      "employment": "Employee",
+      "industry": "-",
+      "industry_other": "-",
+      "work_type": "-",
+      "work_type_other": "-"
+    },
+    "health": {
+      "disability": "No",
+      "sleep_hours": "-",
+      "sleep_problem": "-",
+      "overall_health": "4 - Good",
+      "mobility": "5 - Very good",
+      "surgery": "Yes",
+      "surgery_complications": "No",
+      "recovery": "More than 2 months",
+      "pt_after": "Yes",
+      "pt_after_when": "3-4 months",
+      "pt_adherence": "5 - Complete",
+      "daily_activities_without_difficulty": "Yes"
+    },
+    "psychology": {
+      "mood_today": "5 - Very good",
+      "stress_or_anxiety_24h": "No",
+      "emotional": "Happy",
+      "emotional_other": "-",
+      "stress": "-",
+      "big5": {
+        "extrav": "7 - strongly agree",
+        "quarrel": "2 - disagree",
+        "discipline": "7 - strongly agree",
+        "anxious": "2 - disagree",
+        "open": "7 - strongly agree",
+        "quiet": "2 - disagree",
+        "warm": "7 - strongly agree",
+        "careless": "1 - strongly disagree",
+        "stable": "7 - strongly agree",
+        "uncreative": "1 - strongly disagree"
+      }
+    },
+    "lifestyle": {
+      "activities": "Walking,Jogging,Gym,Cycling",
+      "activities_other": "-",
+      "days_per_week": "7 days",
+      "session_length": "More than 90 minutes",
+      "mood_link": "My exercise habits are not strongly influenced by my mood."
+    },
+    "exercise_task": {
+      "can_perform": "-",
+      "perceived_difficulty": "1 - Not difficult",
+      "actual_difficulty": "1 - Not difficult",
+      "max_reps": "-"
+    },
+    "model": {
+      "score": "-",
+      "agree_with_model": "-",
+      "performed_correctly": "-"
+    },
+    "additional_exercise_tasks": {
+      "calf_raises": {
+        "perceived_difficulty": "1 - Not difficult",
+        "actual_difficulty": "1 - Not difficult"
+      },
+      "standing_toe_touches": {
+        "perceived_difficulty": "2 - Slightly difficult",
+        "actual_difficulty": "2 - Slightly difficult"
+      },
+      "toe_touch_stretches": {
+        "perceived_difficulty": "3 - Moderately difficult",
+        "actual_difficulty": "2 - Slightly difficult"
+      }
+    }
+  }
+]
